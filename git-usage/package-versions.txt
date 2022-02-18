@@ -1,0 +1,26 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Catalina 10.15.7
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.5
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.8         pillar_1.7.0       compiler_4.1.2     RColorBrewer_1.1-2 tools_4.1.2        digest_0.6.29     
+ [7] lattice_0.20-45    nlme_3.1-153       evaluate_0.14      lifecycle_1.0.1    tibble_3.1.6       gtable_0.3.0      
+[13] mgcv_1.8-38        pkgconfig_2.0.3    rlang_1.0.1        Matrix_1.3-4       DBI_1.1.2          cli_3.2.0         
+[19] rstudioapi_0.13    yaml_2.2.2         xfun_0.29          fastmap_1.1.0      withr_2.4.3        dplyr_1.0.8       
+[25] knitr_1.37         generics_0.1.2     vctrs_0.3.8        grid_4.1.2         tidyselect_1.1.1   glue_1.6.1        
+[31] R6_2.5.1           fansi_1.0.2        rmarkdown_2.11     farver_2.1.0       purrr_0.3.4        magrittr_2.0.2    
+[37] splines_4.1.2      scales_1.1.1       ellipsis_0.3.2     htmltools_0.5.2    assertthat_0.2.1   colorspace_2.0-2  
+[43] labeling_0.4.2     utf8_1.2.2         munsell_0.5.0      crayon_1.5.0      
